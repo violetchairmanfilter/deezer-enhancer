@@ -36,4 +36,4 @@ Premium **Deezer Enhancer** streaming access with unlimited content, ad-free exp
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.  
+> This repository is provided for educational and utility purposes only. Use at your own discretion.   
